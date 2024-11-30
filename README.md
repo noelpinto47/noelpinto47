@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @curiouslumber
-- 👀 I’m interested in flutter app dev and web dev projects
-- 🌱 I’m currently learning using git and developing a website in a team
-- 💞️ I’m looking to collaborate on creating apps and websites.
-- 📫 How to reach me : You can send me an email at noelpinto47@gmail.com
+- 👋 Hi, I’m Noel Pinto
+- 👀 I’m interested in Software Engineering, Agile, DevOps
+- 🌱 I’m currently learning Cloud and AI
+- 💞️ I’m looking to collaborate on Software and AI Projects
+- 📫 How to reach me? At noelpinto47@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: The meaning of my name is 'Joy', and in French 'Joyeux Noël' means Merry Christmas ;)
 
 <!---
 curiouslumber/curiouslumber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
