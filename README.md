@@ -175,8 +175,6 @@
   </a>
 </div>
 
-*Fun fact: My code quality is directly proportional to my playlist quality! 🎧*
-
 ---
 
 ## 📚 Currently Reading
