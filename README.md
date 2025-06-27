@@ -117,10 +117,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiouslumber&layout=compact&langs_count=8&theme=blue-green&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=curiouslumber&theme=blue-green&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ### 🎖️ GitHub Achievements
 
 <div align="center">
@@ -181,12 +177,12 @@
 
 <div align="center">
   
-| 📖 Book | 👤 Author | 📊 Progress | 💡 Why This Book? |
-|---------|-----------|-------------|-------------------|
-| **"The Diary of a CEO"** | Steven Bartlett | ![80%](https://progress-bar.dev/80?color=0175C2) | Learning how to think like a leader |
-| **"Steve Jobs"** | Walter Isaacson | ![60%](https://progress-bar.dev/60?color=02569B) | Understanding the genius behind Apple |
-| **"The Lean Startup"** | Eric Ries | ![40%](https://progress-bar.dev/40?color=42B883) | Building apps that users actually want |
-| **"The Alchemist"** | Paulo Coelho | ![100%](https://progress-bar.dev/100?color=0175C2) | Life-changing read! |
+| 📖 Book | 👤 Author |💡 Why This Book? |
+|---------|-----------|-------------|
+| **"The Diary of a CEO"** | Steven Bartlett | Learning how to think like a leader |
+| **"Steve Jobs"** | Walter Isaacson | Understanding the genius behind Apple |
+| **"The Lean Startup"** | Eric Ries | Building apps that users actually want |
+| **"The Alchemist"** | Paulo Coelho | Life-changing read! |
 
 </div>
 
