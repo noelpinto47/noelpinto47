@@ -95,14 +95,6 @@
 
 ---
 
-## 📊 Skills & Expertise Overview
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=curiouslumber&theme=blue-green&hide_border=true&custom_title=Weekly%20Development%20Focus" alt="WakaTime stats" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
