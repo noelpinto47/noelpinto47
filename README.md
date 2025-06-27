@@ -107,6 +107,7 @@
 | **🔥 Ember** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase) | Fast-fashion app built in a weekend (When inspiration strikes!) | [🔗 Repo](Private) | 💎 Weekend Gem |
 
 </div>
+
 ---
 
 ## 📈 GitHub Analytics
