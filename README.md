@@ -1,4 +1,4 @@
-<h1 align="center">🌲 Welcome to My Digital Forest 🌲</h1>
+<!-- <h1 align="center">🌲 Welcome to My Digital Forest 🌲</h1> -->
 
 <!-- HEADER: Forest Green Animated Banner -->
 <p align="center">
@@ -188,7 +188,7 @@
   
 | 📖 Book | 👤 Author | 📊 Progress |
 |---------|-----------|-------------|
-| "The Diary of a CEO" | Steve Bartlett | ████████░░ 80% |
+| "The Diary of a CEO" | Steven Bartlett | ████████░░ 80% |
 | "Steve Jobs" | Walter Isaacson | ██████░░░░ 60% |
 | "The Lean Startup" | Eric Ries | ██████░░░░ 40% |
 | "The Alchemist" | Paulo Coelho | ██████████ 100% |
