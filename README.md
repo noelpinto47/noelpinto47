@@ -8,7 +8,7 @@
 <!-- SOCIAL BADGES - Forest Green Theme -->
 <p align="center">
   <a href="https://github.com/curiouslumber"><img src="https://img.shields.io/badge/GitHub-curiouslumber-2F5233?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/noelpinto47"><img src="https://img.shields.io/badge/LinkedIn-Connect-228B22?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/noelpinto47"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e6a1f?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:noelpinto47@gmail.com"><img src="https://img.shields.io/badge/Email-noelpinto47@gmail.com-355E3B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
