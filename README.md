@@ -14,8 +14,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0175C2&center=true&vCenter=true&width=900&lines=Flutter+Developer+%7C+Mobile+App+Architect+%F0%9F%8F%97%EF%B8%8F;AI-Powered+Mobile+Apps+%7C+Cross-Platform+Expert+%F0%9F%A4%96;Building+Beautiful+Apps%2C+One+Widget+at+a+Time!+%E2%9A%A1;From+Concept+to+App+Store+-+I+Make+It+Happen!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
----
-
 ## 🎯 About Me
 
 - 👋 Hi, I'm **Noel Pinto** - Your friendly neighborhood Flutter wizard! 🧙‍♂️
