@@ -72,28 +72,38 @@
 
 ---
 
-## 📊 Skills Radar Chart
+## 📊 Skills & Expertise Overview
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=curiouslumber&theme=forest&hide_border=true&custom_title=Weekly%20Development%20Focus" alt="WakaTime stats" />
 </div>
 
+### 🎯 Technical Proficiency Levels
+
 <div align="center">
 
-```mermaid
-%%{init: {'theme':'forest'}}%%
-graph radar
-    A[Software Engineering] --> B[90%]
-    C[DevOps & Cloud] --> D[85%]
-    E[AI & Machine Learning] --> F[75%]
-    G[Frontend Development] --> H[88%]
-    I[Backend Development] --> J[92%]
-    K[Database Design] --> L[82%]
-    M[System Architecture] --> N[87%]
-    O[Agile Methodologies] --> P[95%]
-```
+| 🔥 Skill Area | 📊 Proficiency | 🌟 Experience |
+|---------------|----------------|---------------|
+| **Software Engineering** | ![95%](https://progress-bar.dev/95?color=228B22) | 5+ years |
+| **DevOps & Cloud** | ![85%](https://progress-bar.dev/85?color=32CD32) | 3+ years |
+| **AI & Machine Learning** | ![75%](https://progress-bar.dev/75?color=90EE90) | 2+ years |
+| **Frontend Development** | ![88%](https://progress-bar.dev/88?color=228B22) | 4+ years |
+| **Backend Development** | ![92%](https://progress-bar.dev/92?color=228B22) | 5+ years |
+| **Database Design** | ![82%](https://progress-bar.dev/82?color=32CD32) | 4+ years |
+| **System Architecture** | ![87%](https://progress-bar.dev/87?color=32CD32) | 3+ years |
+| **Agile Methodologies** | ![95%](https://progress-bar.dev/95?color=228B22) | 5+ years |
 
 </div>
+
+### 💡 Current Learning Focus
+
+```mermaid
+pie title Current Learning Distribution
+    "Cloud Technologies" : 35
+    "AI/ML Frameworks" : 30
+    "DevOps Tools" : 20
+    "System Design" : 15
+```
 
 ---
 
