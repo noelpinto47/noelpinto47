@@ -163,12 +163,28 @@
 
 ---
 
-## 🎵 Currently Vibing To
+## 🌟 Open-Source Contributions
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31iavwcc24goubz4dwbheilidt6q">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31iavwcc24goubz4dwbheilidt6q&count=3&unique=true" alt="Spotify Recently Played" />
-  </a>
+   <h3><a href="https://pub.dev/packages/is_airplane_mode">is_airplane_mode</a></h3>
+
+  <p>
+    <a href="https://github.com/curiouslumber/is_airplane_mode">
+      <img src="https://img.shields.io/github/stars/curiouslumber/is_airplane_mode?style=social" alt="GitHub Stars" />
+    </a>
+    <a href="https://pub.dev/packages/is_airplane_mode">
+      <img src="https://img.shields.io/pub/v/is_airplane_mode?style=flat-square" alt="Pub.dev Package" />
+    </a>
+    <!-- <a href="https://pub.dev/packages/is_airplane_mode/score">
+      <img src="https://img.shields.io/pub/popularity/is_airplane_mode?style=flat-square" alt="Pub Popularity" />
+    </a> -->
+    <a href="https://github.com/curiouslumber/is_airplane_mode">
+      <img src="https://img.shields.io/github/last-commit/curiouslumber/is_airplane_mode?style=flat-square&logo=github&logoColor=white" alt="GitHub Last Commit" />
+    </a>
+  </p>
+  <p>
+    A simple Flutter package to detect if airplane mode is enabled on Android and iOS.
+  </p>
 </div>
 
 ---
