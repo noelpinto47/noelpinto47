@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hi, I’m Noel Pinto, a passionate Flutter Developer and Mobile App Architect.<br>🚀 I build intelligent cross-platform apps using Flutter, AI/ML, and cloud technologies.<br>🛠️ Experienced in full-stack mobile development with projects like Planora (AI task manager) and ChatXL (AI-Excel chatbot).<br>🎯 Passionate about software engineering, agile practices, and pushing app boundaries with AI.<br>🎨 Open to collaborations on innovative software and AI projects.
+- 👋 Hi, I’m Noel Pinto
+- 👀 I’m interested in Software Engineering, Agile, DevOps
+- 🌱 I’m currently learning Cloud and AI
+- 💞️ I’m looking to collaborate on Software and AI Projects
+- 📫 How to reach me? At noelpinto47@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: The meaning of my name is 'Joy', and in French 'Joyeux Noël' means Merry Christmas ;)
 
 
 ## 🌐 Socials:
