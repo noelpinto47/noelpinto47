@@ -7,19 +7,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The meaning of my name is 'Joy', and in French 'Joyeux Noël' means Merry Christmas ;)
 
-## 🌐 Socials:
-<p align="center">
-  <a href="https://instagram.com/noelpinto47">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
-  </a>
-  <a href="https://linkedin.com/in/noelpinto47">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:noelpinto47@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
-  </a>
-</p>
-
 ## 💻 Tech Stack:
 
 ### Programming Languages:
@@ -57,4 +44,17 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+</p>
+
+## 🌐 Socials:
+<p align="center">
+  <a href="https://instagram.com/noelpinto47">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/noelpinto47">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:noelpinto47@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
+  </a>
 </p>
